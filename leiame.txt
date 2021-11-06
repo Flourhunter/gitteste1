@@ -1,1 +1,9 @@
 arquivo estudo git
+
+comandos importantes :
+
+  $ git init
+  $ git add <arquivo>
+  $ git commit -m "mensagem"
+  $ git status
+  $ git log
