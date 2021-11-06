@@ -7,3 +7,11 @@ comandos importantes :
   $ git commit -m "mensagem"
   $ git status
   $ git log
+  $ git diff <arquivo>
+
+  $ git checkout <arquivo> // para arquivos não comitados
+  $ git revert <hash>
+
+  $ git branch (exibe os branches existentes)
+  $ git checkout -b <novo branch> (cria novo branch)
+  $ git checkout <branch> (alterna entre os branches existentes)
